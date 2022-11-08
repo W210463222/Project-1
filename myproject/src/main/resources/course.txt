@@ -1,0 +1,7 @@
+courseNo,grade,creditHours
+CS,B,4
+CS12,A,4,
+BS,B,3
+Hist,A,3
+ENG,A,4
+CS12,A,4
